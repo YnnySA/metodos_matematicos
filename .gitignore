@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+Force_reduce_eq.dat
+deep.ipynb
+Actividad_GK_qwen.ipynb
+
