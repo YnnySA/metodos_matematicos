@@ -3,5 +3,6 @@
     "allow": [
       "Bash(git log *)"
     ]
-  }
+  },
+  "$version": 3
 }
