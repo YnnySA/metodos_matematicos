@@ -6,4 +6,8 @@ __pycache__/
 Force_reduce_eq.dat
 deep.ipynb
 Actividad_GK_qwen.ipynb
-
+.qwen/
+.gitignore/
+CLAUDE.md
+Matplotlib/
+solve_ivp/
