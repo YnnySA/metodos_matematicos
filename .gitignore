@@ -15,3 +15,5 @@ _insert_derivatives.py
 derivadas_y_errores_2x2.png
 ejemplo_derivate.ipynb
 test.png
+.claude/
+_insert_derivatives_cell.py
